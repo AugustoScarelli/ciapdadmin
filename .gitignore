@@ -1,0 +1,10 @@
+.idea/
+build/
+node_modules
+yarn*
+.DS_Store
+yarn.lock
+*.lock
+*.log
+*.lock
+*.log
