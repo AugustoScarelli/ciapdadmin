@@ -12,7 +12,7 @@
     "classnames": "^2.2.6",
     "firebase": "^5.11.1",
     "html2canvas": "^1.0.0-rc.3",
-    "jspdf": "1.4.1",
+    "jspdf": "3.0.1",
     "react": "^16.8.0-alpha.1",
     "react-dom": "^16.8.0-alpha.1",
     "react-new-window": "^0.1.1",
